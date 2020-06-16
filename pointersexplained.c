@@ -35,4 +35,19 @@ when you say - * - you are saying value at reference [de-reference of location]
 
 you pass/declare - int *p - you are declaring intent that it is a memory location [reference declaration]
 
-that’s it. */
+that’s it.
+
+A sample run -
+
+the value and address of pointer is 10 6487576
+ received in test function is 6487576
+value of testpointer is 10
+newpointer is 6487576
+
+--------------------------------
+Process exited after 0.2585 seconds with return value 23
+Press any key to continue . . .
+
+
+
+ */
